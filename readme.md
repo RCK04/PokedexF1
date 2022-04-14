@@ -6,4 +6,5 @@ Um projeto de teste com o arquivo README 🧙🏾
 ## Tecnologias utilizadas
 - HTML
 - CSS
+- JavaScript
 
